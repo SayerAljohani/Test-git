@@ -1,2 +1,2 @@
 # Test-git
-This is my first project on getHub network.
+This is my first project on gitHub network.
